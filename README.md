@@ -41,4 +41,4 @@ Train the Neural Network model.
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Results
 Presented below are the accuracy results obtained from both models on the validation and test sets.
-
+Accuracy on the test set: 0.8371
