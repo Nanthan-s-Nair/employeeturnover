@@ -1,6 +1,6 @@
 Employee Attrition Prediction
 
-This project aims to predict employee attrition in a company using both Random Forest and Neural Network models. Employee attrition, or the rate at which employees leave the organization, is a critical concern for companies, and predicting it can help in workforce planning and management.
+This model aims to predict employee attrition in a company using both Random Forest and Neural Network models. Employee attrition, or the rate at which employees leave the organization, is a critical concern for companies, and predicting it can help in workforce planning and management.
 Also this model is kept open till accuray to show the efficiency of the model and can be further modified or developed accordingly the users requirements.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
